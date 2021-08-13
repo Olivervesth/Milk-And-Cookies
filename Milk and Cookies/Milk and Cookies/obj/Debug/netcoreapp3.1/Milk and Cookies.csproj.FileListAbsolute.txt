@@ -1,0 +1,21 @@
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\Milk and Cookies.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\Milk and Cookies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\Milk and Cookies.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\Milk and Cookies.AssemblyInfo.cs
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\Milk and Cookies.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\Milk and Cookies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\bin\Debug\netcoreapp3.1\Milk and Cookies.exe
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\bin\Debug\netcoreapp3.1\Milk and Cookies.deps.json
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\bin\Debug\netcoreapp3.1\Milk and Cookies.runtimeconfig.json
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\bin\Debug\netcoreapp3.1\Milk and Cookies.runtimeconfig.dev.json
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\bin\Debug\netcoreapp3.1\Milk and Cookies.dll
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\bin\Debug\netcoreapp3.1\Milk and Cookies.pdb
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\staticwebassets\Milk and Cookies.StaticWebAssets.Manifest.cache
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\staticwebassets\Milk and Cookies.StaticWebAssets.xml
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\scopedcss\bundle\Milk and Cookies.styles.css
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\Milk and Cookies.RazorTargetAssemblyInfo.cache
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\Milk and Cookies.dll
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\Milk and Cookies.pdb
+C:\Users\olive\source\repos\Milk and Cookies\Milk and Cookies\obj\Debug\netcoreapp3.1\Milk and Cookies.genruntimeconfig.cache
